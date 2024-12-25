@@ -3,7 +3,7 @@
 🌟 **Data Scientist | Analyst | Science Communicator**  
 
 - 🎓 **Academic Background**:  
-  Studied Medical Sciences, Biochemistry, and Genomic Medicine with advanced certifications in Data Science, AI, and Machine Learning.  
+  Studied Medical Sciences at OBU with advanced Programmes in Data Science, AI, and Machine Learning from UT Austin.  
 
 - 📊 **Professional Focus**:  
   Specializing in data science and analytics, with expertise in Python, SQL, machine learning, and data visualization to drive impactful insights and solutions.  
@@ -13,7 +13,7 @@
   - Bridging the gap between complex data and actionable insights through effective communication.  
 
 - 🚀 **Current Projects**:  
-  - Developing innovative analytics solutions for healthcare and wearable technology.  
+  - Developing innovative analytics solutions for health and wearable technology.  
   - Creating tools to make research and academic content more accessible through technology.  
 
 - 🌍 **Languages**: Fluent in English and Arabic, enabling seamless collaboration across diverse teams.  
