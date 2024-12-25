@@ -3,7 +3,7 @@
 🌟 **Data Scientist | Analyst | Science Communicator**  
 
 - 🎓 **Academic Background**:  
-  Studied Medical Sciences at OBU with advanced Programmes in Data Science, AI, and Machine Learning from UT Austin.  
+  Studied Medical Sciences at Oxford Brookes University with advanced Programmes in Data Science, AI, and Machine Learning from UT Austin.  
 
 - 📊 **Professional Focus**:  
   Specializing in data science and analytics, with expertise in Python, SQL, machine learning, and data visualization to drive impactful insights and solutions.  
