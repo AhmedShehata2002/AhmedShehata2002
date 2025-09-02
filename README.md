@@ -20,6 +20,4 @@
 
 Let’s connect and uncover the stories hidden in data!  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhmedShehata2002)](https://git.io/streak-stats)
-
 ![AhmedShehata2002's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShehata2002&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
