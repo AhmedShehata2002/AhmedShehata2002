@@ -1,130 +1,210 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C49A6C&height=200&section=header&text=Ahmed%20Shehata&fontSize=50&fontColor=FAF7F3&fontAlignY=38&desc=Data%20Scientist%20·%20Health%20Analytics%20·%20CFA%20Candidate%20(Aug%202026)&descAlignY=58&descColor=EDE7DE&animation=fadeIn" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=C49A6C&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Based+in+Abu+Dhabi%2C+UAE+%F0%9F%87%A6%F0%9F%87%AA+%7C+Open+to+work" alt="Typing SVG" />
-</div>
+# AHMED SHEHATA
+
+<br>
+
+# I INVESTIGATE COMPLEX SYSTEMS.
+
+### BIOLOGICAL · FINANCIAL · BUILT
+
+<br>
+
+Data & Strategy Analyst — Healthcare · Investment · Technology  
+Abu Dhabi, UAE · English & Arabic
+
+<br>
 
 ---
 
-## 👋 Who I Am
+<br>
 
-I am a data scientist based in **Abu Dhabi, UAE** with a background in Medical Sciences and a focus on health analytics and AI. I build tools that sit at the intersection of health data, finance, and intelligent systems — with a particular focus on the UAE and MENA context.
+## 01 / SELECTED WORK
 
-- 🎓 MSc Health Data Science — University of Birmingham, Dubai *(ongoing)*
-- 🎓 PGCert Data Science & Business Analytics — UT Austin *(completed)*
-- 🎓 BSc Medical Sciences — Oxford Brookes University *(completed)*
-- 💼 Data Science Intern — M42, Abu Dhabi *(G42 & Mubadala joint venture)*
-- 📈 CFA Level I Candidate — August 2026
-- 🌍 Fluent in English and Arabic
+<br>
 
----
+### CANCER GENE EXPRESSION CLASSIFICATION
 
-## 🛠️ Tech Stack
+*Can a neural network identify cancer type from gene expression alone?*
 
-<div align="center">
+Multi-class deep learning classifier across 5 tumour types — BRCA, KIRC, COAD, LUAD, PRAD — using RNA-Seq expression profiles. Dropout regularisation, confusion matrix evaluation, and feature importance analysis across high-dimensional biological data.
 
-![Python](https://img.shields.io/badge/Python-2C2416?style=for-the-badge&logo=python&logoColor=C49A6C)
-![SQL](https://img.shields.io/badge/SQL-2C2416?style=for-the-badge&logo=mysql&logoColor=C49A6C)
-![HTML5](https://img.shields.io/badge/HTML5-2C2416?style=for-the-badge&logo=html5&logoColor=C49A6C)
-![CSS3](https://img.shields.io/badge/CSS3-2C2416?style=for-the-badge&logo=css3&logoColor=C49A6C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2C2416?style=for-the-badge&logo=tensorflow&logoColor=C49A6C)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-2C2416?style=for-the-badge&logo=scikit-learn&logoColor=C49A6C)
-![Pandas](https://img.shields.io/badge/Pandas-2C2416?style=for-the-badge&logo=pandas&logoColor=C49A6C)
-![Streamlit](https://img.shields.io/badge/Streamlit-2C2416?style=for-the-badge&logo=streamlit&logoColor=C49A6C)
-![Claude API](https://img.shields.io/badge/Anthropic_Claude-2C2416?style=for-the-badge&logoColor=C49A6C)
-![OpenAI](https://img.shields.io/badge/OpenAI-2C2416?style=for-the-badge&logo=openai&logoColor=C49A6C)
-![Tableau](https://img.shields.io/badge/Tableau-2C2416?style=for-the-badge&logo=tableau&logoColor=C49A6C)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-2C2416?style=for-the-badge&logo=github&logoColor=C49A6C)
+`Python` `TensorFlow / Keras` `scikit-learn` `Pandas`
 
-</div>
+[→ View Repository](https://github.com/AhmedShehata2002/cancer-gene-expression-nn)
 
----
+<br>
 
-## 🚀 Projects
+### CLINICAL INTAKE AI
 
-### 📊 Habit Dashboard PWA
-> *Personal productivity · PWA · Google Calendar integration*
+*Can a bilingual AI assistant replace the paper intake form in UAE private clinics?*
 
-An always-on iPhone dashboard mounted on a pegboard at home. Tracks daily habits across prayer, training, nutrition and study — scores the day out of 9 and auto-logs to Google Calendar at 11:30pm. Built with pure HTML/CSS/JS, Abu Dhabi prayer time calculations, live weather, streak tracking and sound feedback. Deployed via GitHub Pages as a PWA.
+Product brief and 12-week implementation roadmap for an Arabic/English AI pre-consultation system. Covers conversation design, safety architecture, and UAE regulatory compliance (PDPL, DHA, MOHAP). 60%+ of UAE clinic patients are non-Arabic-speaking; most intake remains manual and monolingual.
 
-![HTML](https://img.shields.io/badge/HTML-2C2416?style=flat&logo=html5&logoColor=C49A6C) ![CSS](https://img.shields.io/badge/CSS-2C2416?style=flat&logo=css3&logoColor=C49A6C) ![PWA](https://img.shields.io/badge/PWA-2C2416?style=flat&logoColor=C49A6C) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-2C2416?style=flat&logo=github&logoColor=C49A6C)
+`Claude API` `FastAPI` `Next.js` `Python`
 
-🔗 [View Repo](https://github.com/AhmedShehata2002/habit-dashboard) · 🌐 [Live Demo](https://ahmedshehata2002.github.io/habit-dashboard)
+[→ View Repository](https://github.com/AhmedShehata2002/clinical-intake-ai)
 
----
+<br>
 
-### 🏥 Clinical Intake AI
-> *Health AI · UAE healthcare · Bilingual Arabic/English*
+### CREDIT CARD DEFAULT PREDICTION
 
-A fully scoped product brief and 12-week implementation roadmap for a bilingual Arabic/English AI pre-consultation assistant for UAE private clinics. Documents the problem, conversation design, safety architecture, UAE regulatory compliance (PDPL, DHA), and recommended tech stack. Addresses a real gap where 60%+ of UAE clinic patients are non-Arabic-speaking yet intake processes remain manual and monolingual.
+*Which loan applicants are most likely to default — and why?*
 
-![Python](https://img.shields.io/badge/Python-2C2416?style=flat&logo=python&logoColor=C49A6C) ![FastAPI](https://img.shields.io/badge/FastAPI-2C2416?style=flat&logo=fastapi&logoColor=C49A6C) ![Claude API](https://img.shields.io/badge/Claude_API-2C2416?style=flat&logoColor=C49A6C) ![Next.js](https://img.shields.io/badge/Next.js-2C2416?style=flat&logo=next.js&logoColor=C49A6C)
+Ensemble ML classifier — bagging, random forest, boosting — with class imbalance handling and GINI-based feature importance. Evaluated against precision, recall, and ROC-AUC. Relevant to credit risk management; informed by CFA-level financial analysis.
 
-🔗 [View Repo](https://github.com/AhmedShehata2002/clinical-intake-ai)
+`Python` `scikit-learn` `XGBoost` `Pandas`
 
----
+[→ View Repository](https://github.com/AhmedShehata2002/credit-card-default-ml)
 
-### 🧬 Cancer Gene Expression Classification
-> *Deep learning · Health data · Neural networks*
+<br>
 
-Multi-class neural network classifier that identifies cancer type from RNA-Seq gene expression profiles across 5 tumour types — BRCA, KIRC, COAD, LUAD, PRAD. Covers data preprocessing, dimensionality reduction, model architecture with dropout regularisation, and evaluation via confusion matrix and feature importance analysis.
+### HEALTH DATA AI — WHOOP & OURA ANALYTICS
 
-![Python](https://img.shields.io/badge/Python-2C2416?style=flat&logo=python&logoColor=C49A6C) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2C2416?style=flat&logo=tensorflow&logoColor=C49A6C) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-2C2416?style=flat&logo=scikit-learn&logoColor=C49A6C)
+Streamlit application layering conversational AI over personal health data. Upload a CSV export from Whoop or Oura and ask natural language questions about recovery, sleep, and training patterns.
 
-🔗 [View Repo](https://github.com/AhmedShehata2002/cancer-gene-expression-nn)
+`Python` `Streamlit` `PandasAI` `OpenAI`
 
----
+[→ View Repository](https://github.com/AhmedShehata2002/health-data-ai)
 
-### 💳 Credit Card Default Prediction
-> *Machine learning · Finance · Risk modelling*
+<br>
 
-Supervised ML classification model predicting loan default risk using decision trees and ensemble methods — bagging, random forest, and boosting. Covers EDA, feature importance via GINI impurity, and class imbalance handling. Directly relevant to credit risk management in retail banking, aligned with my CFA studies.
+### HABIT DASHBOARD PWA
 
-![Python](https://img.shields.io/badge/Python-2C2416?style=flat&logo=python&logoColor=C49A6C) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-2C2416?style=flat&logo=scikit-learn&logoColor=C49A6C) ![Pandas](https://img.shields.io/badge/Pandas-2C2416?style=flat&logo=pandas&logoColor=C49A6C)
+Dependency-free personal productivity dashboard scoring daily habits across prayer, training, nutrition, and study. Auto-logs to Google Calendar at 11:30pm. Built with vanilla HTML/CSS/JS, solar-angle prayer time calculation for Abu Dhabi, live weather, and streak tracking.
 
-🔗 [View Repo](https://github.com/AhmedShehata2002/credit-card-default-ml)
+`HTML` `CSS` `JavaScript` `PWA` `GitHub Pages`
 
----
+[→ View Repository](https://github.com/AhmedShehata2002/habit-dashboard) · [Live ↗](https://ahmedshehata2002.github.io/habit-dashboard)
 
-### ⌚ Health Data AI — Whoop & Oura Analytics
-> *Wearable analytics · Conversational AI · Streamlit*
+<br>
 
-Streamlit app that integrates conversational AI to analyse personal health data from Whoop and Oura devices. Upload a CSV export and ask natural language questions about your recovery, sleep, and training data — the AI queries the dataframe and returns insights with optional charts.
+### TALKPDF
 
-![Python](https://img.shields.io/badge/Python-2C2416?style=flat&logo=python&logoColor=C49A6C) ![Streamlit](https://img.shields.io/badge/Streamlit-2C2416?style=flat&logo=streamlit&logoColor=C49A6C) ![OpenAI](https://img.shields.io/badge/OpenAI-2C2416?style=flat&logo=openai&logoColor=C49A6C) ![Pandas](https://img.shields.io/badge/Pandas-2C2416?style=flat&logo=pandas&logoColor=C49A6C)
+Streamlit app for conversational Q&A over any PDF. Upload a research paper, clinical guideline, or report and ask questions in plain English.
 
-🔗 [View Repo](https://github.com/AhmedShehata2002/health-data-ai)
+`Python` `Streamlit` `OpenAI` `pdfplumber`
+
+[→ View Repository](https://github.com/AhmedShehata2002/talkpdf)
+
+<br>
+
+### SUBSCRIPTION CHURN ANALYSIS
+
+End-to-end SQL analysis of subscription churn using CTEs, window functions, cohort analysis, cross joins, and temporary tables. Identifies when and why subscribers cancel across user segments.
+
+`SQL` `SQLite`
+
+[→ View Repository](https://github.com/AhmedShehata2002/sql-churn-analysis)
+
+<br>
 
 ---
 
-### 📄 TalkPDF — Conversational PDF Assistant
-> *Science communication · NLP · Streamlit*
+<br>
 
-Streamlit app that lets you have a conversation with any PDF document. Upload a research paper, clinical guideline, or textbook and ask it questions in plain English. Built to bridge the gap between dense academic content and the people who need to understand it quickly.
+## 02 / RESEARCH
 
-![Python](https://img.shields.io/badge/Python-2C2416?style=flat&logo=python&logoColor=C49A6C) ![Streamlit](https://img.shields.io/badge/Streamlit-2C2416?style=flat&logo=streamlit&logoColor=C49A6C) ![OpenAI](https://img.shields.io/badge/OpenAI-2C2416?style=flat&logo=openai&logoColor=C49A6C) ![pdfplumber](https://img.shields.io/badge/pdfplumber-2C2416?style=flat&logoColor=C49A6C)
+<br>
 
-🔗 [View Repo](https://github.com/AhmedShehata2002/talkpdf)
+### HOW BUILDINGS AFFECT HUMAN HEALTH
 
----
+*Evidence from Air Quality, Stress, and Epigenetics*
 
-### 📉 Subscription Churn Analysis
-> *Advanced SQL · Business analytics · Retention strategy*
+Narrative Review · Preprint · 2026
 
-End-to-end SQL analysis of subscription churn rates using advanced techniques — CTEs, window functions, cohort analysis, cross joins, and temporary tables. Identifies when and why subscribers cancel and provides data-driven retention recommendations.
+Examines environmental exposure, the built environment, and human health — spanning air quality, stress physiology, and epigenetic mechanisms.
 
-![SQL](https://img.shields.io/badge/SQL-2C2416?style=flat&logo=mysql&logoColor=C49A6C) ![SQLite](https://img.shields.io/badge/SQLite-2C2416?style=flat&logo=sqlite&logoColor=C49A6C)
+[DOI: 10.5281/zenodo.22012930 ↗](https://doi.org/10.5281/zenodo.22012930)
 
-🔗 [View Repo](https://github.com/AhmedShehata2002/sql-churn-analysis)
+<br>
 
 ---
 
-<div align="center">
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2C2416?style=for-the-badge&logo=linkedin&logoColor=C49A6C)](https://linkedin.com/in/shehata-ahmed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2C2416?style=for-the-badge&logo=google-chrome&logoColor=C49A6C)](https://www.datascienceportfol.io/ahmedshehata)
+## 03 / EXPERIENCE
 
-*Based in Abu Dhabi · Open to roles in health data science, banking analytics, and AI product development in the UAE*
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C49A6C&height=120&section=footer" width="100%"/>
+**AEROME** · Co-Founder  
+*Data, Strategy & Environmental Analytics*  
+Cairo, Egypt · Mar 2026 — Present
 
-</div>
+Python and DesignBuilder-based workflows analysing climate, energy, thermal comfort, and ventilation before major design and capital decisions. Projects modelling up to 42% lower cooling demand and 35% lower overall energy demand. Commercial analysis and market development with real-estate developers.
+
+<br>
+
+**M42** · Data Science Intern  
+*Environmental Health Analytics*  
+Abu Dhabi · G42 & Mubadala · Jul — Oct 2025
+
+Extracted, cleaned, and validated 50K+ laboratory records from LIMS data. Identified geographic and seasonal patterns to inform monitoring priorities. Presented findings at the 2nd Water Quality Forum to scientists, government officials, and senior stakeholders. Built an LLM-enabled research tool with conversational literature querying.
+
+<br>
+
+**MASTERPIECE ENGINEERING SERVICES** · Data Analyst  
+Abu Dhabi · Apr 2024 — Apr 2025
+
+Analysed and validated 50K+ records using SQL and Excel, reducing reporting inconsistencies by 25%. Built 10+ interactive dashboards. Produced quantitative insights across healthcare technology, hospitality, and construction for commercial proposals.
+
+<br>
+
+---
+
+<br>
+
+## 04 / EDUCATION
+
+<br>
+
+**UNIVERSITY OF BIRMINGHAM**  
+MSc Health Data Science  
+Jan 2026 — Sep 2027 · Dubai, UAE
+
+**CFA INSTITUTE**  
+CFA Program · Level I · Nov 2026  
+Ethics · Quantitative Methods · Economics · Financial Reporting & Analysis  
+Equity · Fixed Income · Derivatives · Portfolio Management
+
+**UNIVERSITY OF TEXAS AT AUSTIN — McCOMBS**  
+PGCert Data Science & Business Analytics  
+2024 — 2025 · Abu Dhabi, UAE
+
+**OXFORD BROOKES UNIVERSITY**  
+BSc (Hons) Medical Science · 2:1  
+Sep 2020 — May 2023 · Oxford, UK
+
+<br>
+
+---
+
+<br>
+
+## 05 / TOOLS
+
+<br>
+
+`DATA & PROGRAMMING` &nbsp; Python · Pandas · NumPy · Scikit-learn · SciPy · TensorFlow / Keras · SQL
+
+`ANALYTICS & AI` &nbsp; Statistical Analysis · Machine Learning · EDA · NLP · Generative AI
+
+`BUSINESS INTELLIGENCE` &nbsp; Excel · Power BI · Tableau · Streamlit
+
+`FINANCE & STRATEGY` &nbsp; Financial Statement Analysis · Quantitative Methods · Market Analysis · Commercial Analysis
+
+<br>
+
+---
+
+<br>
+
+## 06 / ELSEWHERE
+
+<br>
+
+[LinkedIn ↗](https://linkedin.com/in/shehata-ahmed) &emsp; [Portfolio ↗](https://www.datascienceportfol.io/ahmedshehata)
+
+<br>
+
+---
+
+*Abu Dhabi, UAE · Open to roles in health data science, investment analysis, and data-driven strategy*
