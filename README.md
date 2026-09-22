@@ -8,7 +8,7 @@
 
 <br>
 
-Data & Strategy Analyst — Healthcare · Investment · Technology  
+Data & Strategy | Health & Environmental Analytics | Co-founder @ AEROME | MSc Health Data Science | CFA Level I Candidate  
 Abu Dhabi, UAE · English & Arabic
 
 <br>
@@ -33,15 +33,17 @@ Multi-class deep learning classifier across 5 tumour types — BRCA, KIRC, COAD,
 
 <br>
 
-### CLINICAL INTAKE AI
+### PREVISIT
 
-*Can a bilingual AI assistant replace the paper intake form in UAE private clinics?*
+*Can a bilingual pre-visit history replace the paper intake form in UAE private clinics — and does the evidence actually hold up?*
 
-Product brief and 12-week implementation roadmap for an Arabic/English AI pre-consultation system. Covers conversation design, safety architecture, and UAE regulatory compliance (PDPL, DHA, MOHAP). 60%+ of UAE clinic patients are non-Arabic-speaking; most intake remains manual and monolingual.
+A working synthetic-data demo (v0.1) of a bilingual Arabic/English pre-visit intake tool: one shared questionnaire engine behind both a WhatsApp-style simulator and a secure patient form, layered and versioned consent, deterministic safety rules that run ahead of any AI step, AES-256-GCM encrypted storage, and an append-only audit trail. No real patient data.
 
-`Claude API` `FastAPI` `Next.js` `Python`
+Paired with a full evidence, law and economics dossier in the repo README — grounded in peer-reviewed documentation-burden and pre-visit-planning research, an honest read of a comparable real-world deployment's actual completion rates, and UAE health-data law (PDPL, Federal Law 2/2019, DOH/DHA standards, MOHAP medical-software rules) — every claim marked Verified, Hypothesis, or Illustrative rather than asserted.
 
-[→ View Repository](https://github.com/AhmedShehata2002/clinical-intake-ai)
+`Claude API` `FastAPI` `Next.js` `PostgreSQL` `Python` `TypeScript`
+
+[→ View Repository](https://github.com/AhmedShehata2002/previsit)
 
 <br>
 
