@@ -162,7 +162,7 @@ Analysed and validated 50K+ records using SQL and Excel, reducing reporting inco
 MSc Health Data Science  
 Jan 2026 — Sep 2027 · Dubai, UAE
 
-**CFA INSTITUTE**  
+**CFA CANDIDATE**  
 CFA Program · Level I · Nov 2026  
 Ethics · Quantitative Methods · Economics · Financial Reporting & Analysis  
 Equity · Fixed Income · Derivatives · Portfolio Management
