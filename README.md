@@ -21,15 +21,15 @@ Abu Dhabi, UAE · English & Arabic
 
 <br>
 
-### CANCER GENE EXPRESSION CLASSIFICATION
+### BEYOND TISSUE OF ORIGIN
 
-*Can a neural network identify cancer type from gene expression alone?*
+*If we read a cancer's genes, can we predict how well a drug will work — better than just knowing which organ it came from?*
 
-Multi-class deep learning classifier across 5 tumour types — BRCA, KIRC, COAD, LUAD, PRAD — using RNA-Seq expression profiles. Dropout regularisation, confusion matrix evaluation, and feature importance analysis across high-dimensional biological data.
+End-to-end machine-learning study of 8 anti-cancer drugs across ~700 cancer cell lines, joining GDSC2 drug-response data (Wellcome Sanger) with DepMap genomics (Broad Institute). A 20% test set is locked away before any training, all tuning and gene selection happen inside cross-validation folds, and every model has to beat an organ-of-origin baseline, not just the average. Genes beat that baseline for 7 of 8 drugs (r = 0.42–0.76, bootstrap 95% intervals), and SHAP recovered the textbook biomarkers — *BRAF*, *TP53*, *BCL2* — as the top inputs for their drugs without being told.
 
-`Python` `TensorFlow / Keras` `scikit-learn` `Pandas`
+`Python` `scikit-learn` `LightGBM` `SHAP` `Pandas`
 
-[→ View Repository](https://github.com/AhmedShehata2002/cancer-gene-expression-nn)
+[→ View Repository](https://github.com/AhmedShehata2002/beyond-tissue-of-origin)
 
 <br>
 
@@ -47,55 +47,31 @@ Paired with a full evidence, law and economics dossier in the repo README — gr
 
 <br>
 
-### CREDIT CARD DEFAULT PREDICTION
+### PASSIVEROI
 
-*Which loan applicants are most likely to default — and why?*
+*Which early passive-design choices cut a building's cooling electricity — and do they actually pay back?*
 
-Ensemble ML classifier — bagging, random forest, boosting — with class imbalance handling and GINI-based feature importance. Evaluated against precision, recall, and ROC-AUC. Relevant to credit risk management; informed by CFA-level financial analysis.
+Streamlit app that turns 2025 NASA POWER climate data for Abu Dhabi, Dubai and Cairo into a transparent, component-based sensible-cooling model (conduction, glazing solar gains transposed to each facade with pvlib, air exchange, internal gains), then converts the estimated savings into payback and discounted NPV. Negative NPVs stay visible and evidence gaps are labelled rather than hidden. Working local v0.1 with an automated pytest suite and a validation notebook.
 
-`Python` `scikit-learn` `XGBoost` `Pandas`
+`Python` `Streamlit` `pvlib` `Plotly` `pytest`
 
-[→ View Repository](https://github.com/AhmedShehata2002/credit-card-default-ml)
-
-<br>
-
-### HEALTH DATA AI — WHOOP & OURA ANALYTICS
-
-Streamlit application layering conversational AI over personal health data. Upload a CSV export from Whoop or Oura and ask natural language questions about recovery, sleep, and training patterns.
-
-`Python` `Streamlit` `PandasAI` `OpenAI`
-
-[→ View Repository](https://github.com/AhmedShehata2002/health-data-ai)
+[→ View Repository](https://github.com/AhmedShehata2002/passive-roi-simulator)
 
 <br>
 
-### HABIT DASHBOARD PWA
+### AEROME CASE STUDIES
 
-Dependency-free personal productivity dashboard scoring daily habits across prayer, training, nutrition, and study. Auto-logs to Google Calendar at 11:30pm. Built with vanilla HTML/CSS/JS, solar-angle prayer time calculation for Abu Dhabi, live weather, and streak tracking.
+*What does environmental data look like when it has to win a commercial pitch?*
 
-`HTML` `CSS` `JavaScript` `PWA` `GitHub Pages`
+Two delivered projects from AEROME, the environmental design studio I co-founded. My part is the data layer around the architecture team's design work: DesignBuilder simulation output, site climate data, UAE building-code and market benchmarks, and cost data, combined into the business case. Zawaya Mall (Egypt): −42% cooling cost and −35% total energy. Dubai villa: 67.9 kWh/m²/yr, 53% below the Al Sa'fat code baseline.
 
-[→ View Repository](https://github.com/AhmedShehata2002/habit-dashboard) · [Live ↗](https://ahmedshehata2002.github.io/habit-dashboard)
+`DesignBuilder` `Autodesk Forma` `Energy Benchmarking` `Commercial Analysis`
 
-<br>
-
-### TALKPDF
-
-Streamlit app for conversational Q&A over any PDF. Upload a research paper, clinical guideline, or report and ask questions in plain English.
-
-`Python` `Streamlit` `OpenAI` `pdfplumber`
-
-[→ View Repository](https://github.com/AhmedShehata2002/talkpdf)
+[→ View Repository](https://github.com/AhmedShehata2002/aerome-case-studies)
 
 <br>
 
-### SUBSCRIPTION CHURN ANALYSIS
-
-End-to-end SQL analysis of subscription churn using CTEs, window functions, cohort analysis, cross joins, and temporary tables. Identifies when and why subscribers cancel across user segments.
-
-`SQL` `SQLite`
-
-[→ View Repository](https://github.com/AhmedShehata2002/sql-churn-analysis)
+*More work — credit-risk ML, SQL churn analysis, health-data AI apps — in [all repositories ↗](https://github.com/AhmedShehata2002?tab=repositories)*
 
 <br>
 
@@ -185,7 +161,7 @@ Sep 2020 — May 2023 · Oxford, UK
 
 <br>
 
-`DATA & PROGRAMMING` &nbsp; Python · Pandas · NumPy · Scikit-learn · SciPy · TensorFlow / Keras · SQL
+`DATA & PROGRAMMING` &nbsp; Python · Pandas · NumPy · Scikit-learn · LightGBM · SHAP · SciPy · TensorFlow / Keras · SQL
 
 `ANALYTICS & AI` &nbsp; Statistical Analysis · Machine Learning · EDA · NLP · Generative AI
 
