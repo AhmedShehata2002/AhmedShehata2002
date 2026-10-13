@@ -179,7 +179,7 @@ Sep 2020 — May 2023 · Oxford, UK
 
 <br>
 
-[LinkedIn ↗](https://linkedin.com/in/shehata-ahmed) &emsp; [Portfolio ↗](https://www.datascienceportfol.io/ahmedshehata)
+[LinkedIn ↗](https://linkedin.com/in/shehata-ahmed) &emsp; [Website ↗](https://ahmedshehata.me)
 
 <br>
 
